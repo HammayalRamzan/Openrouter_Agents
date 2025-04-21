@@ -45,7 +45,7 @@ Please refer to the LICENSE file for more details.
 ## 🙋‍♀️ Author
 
 **Hammayl**  
-Connect with me on [LinkedIn](#) | [GitHub](#) | 
+Connect with me on [LinkedIn]([#](https://www.linkedin.com/in/hammayal-ramzan-a9b722313/)) | [GitHub]([#](https://github.com/HammayalRamzan)) | 
 
 ---
 
